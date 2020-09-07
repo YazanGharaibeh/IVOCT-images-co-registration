@@ -1,1 +1,1 @@
-# IVOCT-images-co-registration-
+# IVOCT images co-registration
